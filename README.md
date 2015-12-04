@@ -45,3 +45,4 @@ dropbearconvert
 ssh
 scp
 ```
+Install dropbear key id_dropbear and optional authorized_keys to /data/dropbear/.ssh folder. Any additional binaries can be installed/linked to /data/dropbear/bin
