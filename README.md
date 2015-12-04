@@ -21,7 +21,7 @@ Set target for arm64, armhf or x86_64 system:
 ```
 export HOST=aarch64-linux-android   # for arm64
 export HOST=arm-linux-androideabi   # for armhf
-export HOST=x86_64-linux-android   # for armhf
+export HOST=x86_64-linux-android    # for x86_64
 ```
 Configure
 ```
