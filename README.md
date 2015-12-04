@@ -35,3 +35,13 @@ Build
 ```
 STATIC=1 MULTI=1 SCPPROGRESS=0 PROGRAMS="dropbear dropbearkey dropbearconvert scp dbclient" make strip
 ```
+## Install
+Install dropbearmulti to /data/dropbear on your android deivce and make following symbolic to dropbearmulti
+```
+dropbearkey
+dropbear
+dropbearmulti
+dropbearconvert
+ssh
+scp
+```
